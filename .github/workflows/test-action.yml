@@ -10,5 +10,5 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: my_email
+      - name: 23f2003549@ds.study.iitm.ac.in
         run: echo "Hello, world!"
